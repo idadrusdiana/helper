@@ -46,7 +46,8 @@
             "Tests\\": "tests/"
         },
         "files": [
-            "app/Http/Helpers/Random.php"
+            "app/Http/Helpers/Random.php",
+            "app/Http/Helpers/Luas.php"
         ]
     },
     "minimum-stability": "dev",
